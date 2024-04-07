@@ -16,3 +16,4 @@ In this work, we show that linear classifiers for truth learned from consistent-
   
 ### Code
 
+`guided-generation.ipynb` contains a jupyter notebook for several guided generation experiments.
